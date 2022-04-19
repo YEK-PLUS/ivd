@@ -1,0 +1,326 @@
+[
+    {
+        "code": "001",
+        "name": "ADANA"
+    },
+    {
+        "code": "002",
+        "name": "ADIYAMAN"
+    },
+    {
+        "code": "003",
+        "name": "AFYONKARAHİSAR"
+    },
+    {
+        "code": "004",
+        "name": "AĞRI"
+    },
+    {
+        "code": "068",
+        "name": "AKSARAY"
+    },
+    {
+        "code": "005",
+        "name": "AMASYA"
+    },
+    {
+        "code": "006",
+        "name": "ANKARA"
+    },
+    {
+        "code": "007",
+        "name": "ANTALYA"
+    },
+    {
+        "code": "075",
+        "name": "ARDAHAN"
+    },
+    {
+        "code": "008",
+        "name": "ARTVİN"
+    },
+    {
+        "code": "009",
+        "name": "AYDIN"
+    },
+    {
+        "code": "010",
+        "name": "BALIKESİR"
+    },
+    {
+        "code": "074",
+        "name": "BARTIN"
+    },
+    {
+        "code": "072",
+        "name": "BATMAN"
+    },
+    {
+        "code": "069",
+        "name": "BAYBURT"
+    },
+    {
+        "code": "011",
+        "name": "BİLECİK"
+    },
+    {
+        "code": "012",
+        "name": "BİNGÖL"
+    },
+    {
+        "code": "013",
+        "name": "BİTLİS"
+    },
+    {
+        "code": "014",
+        "name": "BOLU"
+    },
+    {
+        "code": "015",
+        "name": "BURDUR"
+    },
+    {
+        "code": "016",
+        "name": "BURSA"
+    },
+    {
+        "code": "017",
+        "name": "ÇANAKKALE"
+    },
+    {
+        "code": "018",
+        "name": "ÇANKIRI"
+    },
+    {
+        "code": "019",
+        "name": "ÇORUM"
+    },
+    {
+        "code": "020",
+        "name": "DENİZLİ"
+    },
+    {
+        "code": "021",
+        "name": "DİYARBAKIR"
+    },
+    {
+        "code": "081",
+        "name": "DÜZCE"
+    },
+    {
+        "code": "022",
+        "name": "EDİRNE"
+    },
+    {
+        "code": "023",
+        "name": "ELAZIĞ"
+    },
+    {
+        "code": "024",
+        "name": "ERZİNCAN"
+    },
+    {
+        "code": "025",
+        "name": "ERZURUM"
+    },
+    {
+        "code": "026",
+        "name": "ESKİŞEHİR"
+    },
+    {
+        "code": "027",
+        "name": "GAZİANTEP"
+    },
+    {
+        "code": "028",
+        "name": "GİRESUN"
+    },
+    {
+        "code": "029",
+        "name": "GÜMÜŞHANE"
+    },
+    {
+        "code": "030",
+        "name": "HAKKARİ"
+    },
+    {
+        "code": "031",
+        "name": "HATAY"
+    },
+    {
+        "code": "076",
+        "name": "IĞDIR"
+    },
+    {
+        "code": "032",
+        "name": "ISPARTA"
+    },
+    {
+        "code": "034",
+        "name": "İSTANBUL"
+    },
+    {
+        "code": "035",
+        "name": "İZMİR"
+    },
+    {
+        "code": "046",
+        "name": "KAHRAMANMARAŞ"
+    },
+    {
+        "code": "078",
+        "name": "KARABÜK"
+    },
+    {
+        "code": "070",
+        "name": "KARAMAN"
+    },
+    {
+        "code": "036",
+        "name": "KARS"
+    },
+    {
+        "code": "037",
+        "name": "KASTAMONU"
+    },
+    {
+        "code": "038",
+        "name": "KAYSERİ"
+    },
+    {
+        "code": "071",
+        "name": "KIRIKKALE"
+    },
+    {
+        "code": "039",
+        "name": "KIRKLARELİ"
+    },
+    {
+        "code": "040",
+        "name": "KIRŞEHİR"
+    },
+    {
+        "code": "079",
+        "name": "KİLİS"
+    },
+    {
+        "code": "041",
+        "name": "KOCAELİ"
+    },
+    {
+        "code": "042",
+        "name": "KONYA"
+    },
+    {
+        "code": "043",
+        "name": "KÜTAHYA"
+    },
+    {
+        "code": "044",
+        "name": "MALATYA"
+    },
+    {
+        "code": "045",
+        "name": "MANİSA"
+    },
+    {
+        "code": "047",
+        "name": "MARDİN"
+    },
+    {
+        "code": "033",
+        "name": "MERSİN"
+    },
+    {
+        "code": "048",
+        "name": "MUĞLA"
+    },
+    {
+        "code": "049",
+        "name": "MUŞ"
+    },
+    {
+        "code": "050",
+        "name": "NEVŞEHİR"
+    },
+    {
+        "code": "051",
+        "name": "NİĞDE"
+    },
+    {
+        "code": "052",
+        "name": "ORDU"
+    },
+    {
+        "code": "080",
+        "name": "OSMANİYE"
+    },
+    {
+        "code": "053",
+        "name": "RİZE"
+    },
+    {
+        "code": "054",
+        "name": "SAKARYA"
+    },
+    {
+        "code": "055",
+        "name": "SAMSUN"
+    },
+    {
+        "code": "056",
+        "name": "SİİRT"
+    },
+    {
+        "code": "057",
+        "name": "SİNOP"
+    },
+    {
+        "code": "058",
+        "name": "SİVAS"
+    },
+    {
+        "code": "063",
+        "name": "Ş.URFA"
+    },
+    {
+        "code": "073",
+        "name": "ŞIRNAK"
+    },
+    {
+        "code": "059",
+        "name": "TEKİRDAĞ"
+    },
+    {
+        "code": "060",
+        "name": "TOKAT"
+    },
+    {
+        "code": "061",
+        "name": "TRABZON"
+    },
+    {
+        "code": "062",
+        "name": "TUNCELİ"
+    },
+    {
+        "code": "064",
+        "name": "UŞAK"
+    },
+    {
+        "code": "065",
+        "name": "VAN"
+    },
+    {
+        "code": "077",
+        "name": "YALOVA"
+    },
+    {
+        "code": "066",
+        "name": "YOZGAT"
+    },
+    {
+        "code": "067",
+        "name": "ZONGULDAK"
+    }
+]
