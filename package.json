@@ -1,6 +1,6 @@
 {
   "name": "@yek-plus/ivd",
-  "version": "2.3.6",
+  "version": "2.3.7",
   "description": "IVD connector",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
