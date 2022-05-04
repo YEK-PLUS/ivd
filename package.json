@@ -1,6 +1,6 @@
 {
   "name": "@yek-plus/ivd",
-  "version": "2.3.7",
+  "version": "2.3.8",
   "description": "IVD connector",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -31,8 +31,7 @@
   "keywords": [
     "ivd",
     "api",
-    "tc",
-    "kimlik",
+    "vergi",
     "dogrulama"
   ],
   "author": "YEK-PLUS <yunusemrekokerr@gmail.com>",
